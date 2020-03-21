@@ -1,0 +1,42 @@
+.container-graficos { 
+    margin: 4% 8%;    
+    width: 80%;
+    height: 50%;
+    text-align: center;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+}
+.container-graficos h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.8em;    
+}
+.content {    
+    display: flex;
+    justify-content: center;
+    align-items: center;      
+}
+.graficos {    
+    margin-top: 6%;   
+}
+.loading {    
+    margin-left: 25%;
+    justify-content: center;
+    align-items: center;    
+}
+
+/* Comando para estilização da impressão */
+@media print{
+    .noPrint {
+        display: none;
+    }
+    td {
+        margin-left: 40%;
+        border-bottom: none;
+    }
+    h1 {
+        font-size: 25px;
+    }
+}

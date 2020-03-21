@@ -1,0 +1,12 @@
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\bin\Debug\netcoreapp2.2\Services.deps.json
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\bin\Debug\netcoreapp2.2\Services.dll
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\bin\Debug\netcoreapp2.2\Services.pdb
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\bin\Debug\netcoreapp2.2\Senai.BlockTime.dll
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\bin\Debug\netcoreapp2.2\Senai.BlockTime.pdb
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.2\Services.csprojAssemblyReference.cache
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.2\Services.csproj.CoreCompileInputs.cache
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.2\Services.AssemblyInfoInputs.cache
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.2\Services.AssemblyInfo.cs
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.2\Services.csproj.CopyComplete
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.2\Services.dll
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.2\Services.pdb

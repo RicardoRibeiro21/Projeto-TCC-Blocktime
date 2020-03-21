@@ -1,0 +1,27 @@
+.container-hosts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fundoHostGroup { 
+    width: 65%;
+    margin-top: 4%;
+    background-color:rgba(255, 250, 250, 0.85);
+    border-radius: 18px;    
+}
+
+#logo img {
+  padding-top: 5%;
+  display: block;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.tabela-hosts {
+    width: 87%;
+    margin: auto;
+    min-height: 200px;
+}

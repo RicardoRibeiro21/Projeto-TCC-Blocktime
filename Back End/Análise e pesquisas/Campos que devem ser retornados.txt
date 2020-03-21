@@ -1,0 +1,34 @@
+Geração de relatório
+
+Sessão Triggers
+Campos necessários
+Severity
+Status
+info
+last change
+age
+ack
+host
+name
+description
+
+Filtros
+Triggers Status
+Akcnowledge status - campo ack
+events - por dia como parametros
+minimun trigger severity
+age less than 
+filtro por nome
+filtro por applicação
+filtro por inventário host
+
+Mostrar todos os detalhes
+mostrar os hosts em manutenção
+
+
+Métodos
+
+https://www.zabbix.com/documentation/3.0/manual/api/reference/user/login
+https://www.zabbix.com/documentation/3.0/manual/api/reference/user/user.checkauthentication
+https://www.zabbix.com/documentation/3.0/manual/api/reference/trigger/get
+https://www.zabbix.com/documentation/3.0/manual/api/reference/item/object#item

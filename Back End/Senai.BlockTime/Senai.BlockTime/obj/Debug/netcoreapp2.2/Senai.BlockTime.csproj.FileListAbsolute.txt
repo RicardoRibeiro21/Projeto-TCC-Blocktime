@@ -1,0 +1,14 @@
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\bin\Debug\netcoreapp2.2\Senai.BlockTime.deps.json
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\bin\Debug\netcoreapp2.2\Senai.BlockTime.runtimeconfig.json
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\bin\Debug\netcoreapp2.2\Senai.BlockTime.runtimeconfig.dev.json
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\bin\Debug\netcoreapp2.2\Senai.BlockTime.dll
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\bin\Debug\netcoreapp2.2\Senai.BlockTime.pdb
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\obj\Debug\netcoreapp2.2\Senai.BlockTime.csprojAssemblyReference.cache
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\obj\Debug\netcoreapp2.2\Senai.BlockTime.csproj.CoreCompileInputs.cache
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\obj\Debug\netcoreapp2.2\Senai.BlockTime.RazorAssemblyInfo.cache
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\obj\Debug\netcoreapp2.2\Senai.BlockTime.RazorAssemblyInfo.cs
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\obj\Debug\netcoreapp2.2\Senai.BlockTime.AssemblyInfoInputs.cache
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\obj\Debug\netcoreapp2.2\Senai.BlockTime.AssemblyInfo.cs
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\obj\Debug\netcoreapp2.2\Senai.BlockTime.RazorTargetAssemblyInfo.cache
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\obj\Debug\netcoreapp2.2\Senai.BlockTime.dll
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Senai.BlockTime\obj\Debug\netcoreapp2.2\Senai.BlockTime.pdb

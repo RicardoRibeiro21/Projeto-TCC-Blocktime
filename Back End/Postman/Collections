@@ -1,0 +1,186 @@
+{
+	"id": "4ca5e307-2643-97f1-ffcd-3ddd494e2583",
+	"name": "BlockTime",
+	"description": "",
+	"order": [],
+	"folders": [
+		{
+			"name": "History",
+			"description": "",
+			"collectionId": "4ca5e307-2643-97f1-ffcd-3ddd494e2583",
+			"order": [
+				"01c3e590-cb5d-0960-beb3-a00b225e5d94"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "f98e6b1b-9640-e021-fc88-5eae9ef5365f"
+		},
+		{
+			"name": "Login",
+			"description": "",
+			"collectionId": "4ca5e307-2643-97f1-ffcd-3ddd494e2583",
+			"order": [
+				"3711c97f-54e3-4a2d-558a-8ef9d779131d"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "f00394a3-959e-ef24-2ed6-7cdf2ac68d5a"
+		},
+		{
+			"name": "Triggers",
+			"description": "",
+			"collectionId": "4ca5e307-2643-97f1-ffcd-3ddd494e2583",
+			"order": [
+				"6dcef57b-c280-229e-55f6-3de80011d5db",
+				"9def8e6a-24c6-4855-4532-70bc42e9eead"
+			],
+			"owner": 0,
+			"folders_order": [],
+			"id": "7893e1e1-1adc-b5d4-db18-b1a5c3e7d16f"
+		}
+	],
+	"folders_order": [
+		"f00394a3-959e-ef24-2ed6-7cdf2ac68d5a",
+		"f98e6b1b-9640-e021-fc88-5eae9ef5365f",
+		"7893e1e1-1adc-b5d4-db18-b1a5c3e7d16f"
+	],
+	"timestamp": 1566999778427,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "01c3e590-cb5d-0960-beb3-a00b225e5d94",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "",
+					"value": "",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"url": "https://monitor.blocktime.com.br/zabbix/api_jsonrpc.php",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "4ca5e307-2643-97f1-ffcd-3ddd494e2583",
+			"data": [],
+			"dataMode": "raw",
+			"name": "Pegando por Ids - history.get",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1566999861404,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "f98e6b1b-9640-e021-fc88-5eae9ef5365f",
+			"rawModeData": "{ \r\n    \"jsonrpc\" :  \"2.0\" ,\r\n     \"method\" :  \"history.get\" ,\r\n     \"params\" :  { \r\n     \t\"output\" : \"extend\",\r\n     \t\"history\" : 0,\r\n     \t\"itemids\" : \"23296\",\r\n     \t\"sortfield\" : \"clock\",\r\n     \t\"sortorder\" : \"DESC\",\r\n        \"limit\" : 10\r\n    } ,\r\n     \"id\" :  1 ,\r\n     \"auth\" :  \"e32326b2cfea91641c31580bf5727284\"\r\n     \r\n}"
+		},
+		{
+			"id": "3711c97f-54e3-4a2d-558a-8ef9d779131d",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://monitor.blocktime.com.br/zabbix/api_jsonrpc.php",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "4ca5e307-2643-97f1-ffcd-3ddd494e2583",
+			"data": [],
+			"dataMode": "raw",
+			"name": "Login",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1566999824358,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "f00394a3-959e-ef24-2ed6-7cdf2ac68d5a",
+			"rawModeData": "{ \r\n    \"jsonrpc\" :  \"2.0\" ,\r\n     \"method\" :  \"user.login\" ,\r\n     \"params\" :  { \r\n    \t\"user\" : \"senai2.2019\",\r\n    \t\"password\" : \"$3naI@2019\"\r\n    } ,\r\n     \"id\" : 1\r\n}"
+		},
+		{
+			"id": "6dcef57b-c280-229e-55f6-3de80011d5db",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://monitor.blocktime.com.br/zabbix/api_jsonrpc.php",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "4ca5e307-2643-97f1-ffcd-3ddd494e2583",
+			"data": [],
+			"dataMode": "raw",
+			"name": "Triggers 14062",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1567000277742,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "7893e1e1-1adc-b5d4-db18-b1a5c3e7d16f",
+			"rawModeData": "{\r\n    \"jsonrpc\": \"2.0\",\r\n    \"method\": \"trigger.get\",\r\n    \"params\": {\r\n        \"triggerids\": \"14062\",\r\n        \"output\": \"extend\",\r\n        \"selectFunctions\": \"extend\"\r\n    },\r\n    \"auth\": \"68ac3e96bd570d05ae8f498cc037ba43\",\r\n    \"id\": 1\r\n}"
+		},
+		{
+			"id": "9def8e6a-24c6-4855-4532-70bc42e9eead",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://monitor.blocktime.com.br/zabbix/api_jsonrpc.php",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "4ca5e307-2643-97f1-ffcd-3ddd494e2583",
+			"data": [],
+			"dataMode": "raw",
+			"name": "Triggers  (selectLastEvent)",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1567000439080,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "7893e1e1-1adc-b5d4-db18-b1a5c3e7d16f",
+			"rawModeData": "{\r\n    \"jsonrpc\": \"2.0\",\r\n    \"method\": \"trigger.get\",\r\n    \"params\": {\r\n        \"triggerids\": \"14062\",\r\n        \"output\": \"extend\",\r\n        \"selectFunctions\": \"extend\",\r\n        \"selectLastEvent\" : \"extend\"\r\n    },\r\n    \"auth\": \"68ac3e96bd570d05ae8f498cc037ba43\",\r\n    \"id\": 1\r\n}"
+		}
+	]
+}

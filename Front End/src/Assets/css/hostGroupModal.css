@@ -1,0 +1,60 @@
+/* Estilização do modal, que é utilizado em várias páginas */
+.containerModal {
+    background-color: rgba(255, 255, 255, 0.842);
+    width: 35%;    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 14px;   
+    padding: 2rem;
+}
+.p-modal{
+    text-align: left;
+    color: black;
+    opacity: 80%
+}
+
+.renato
+{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fundo-modal{
+    width: 80%;
+
+}
+.fundo-modal h1{
+    margin-left: 0 !important;
+    width: 80%;
+}
+
+.fundo-modal input{
+    margin-bottom: 1rem;
+    border-radius: 6px;
+    border-style: none;    
+}
+.fundo-modal p { 
+    font-size: 1.2rem;
+    color: rgba(0, 0, 0, 0.863);
+}
+.fundo-modal select{
+    border-radius: 6px;
+    margin-bottom: 1rem;
+}
+.button-relatorio {
+    background-color: rgb(20, 11, 97) ;
+    border-style: none;    
+    color: white;
+    border-radius: 8px;    
+    margin-left: 2%;    
+}
+.button-relatorio a {
+    color: white;
+}
+.button-relatorio a:hover{      
+    color: white !important;
+}

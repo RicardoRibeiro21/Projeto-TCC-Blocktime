@@ -1,0 +1,26 @@
+.content-editar {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    width: 50%;
+    height: auto;
+    background-color: red;
+}
+.form-editar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+}
+.form-editar input {
+    text-align: center;
+    padding: 3.5% 1%;
+    width: 80%;        
+    border-radius: 5px;
+    filter: opacity(85%);
+    border:none;
+    border-bottom: 5px solid rgba(109, 95, 235, 0.8);
+    margin-bottom: 10%;
+}
+

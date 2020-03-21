@@ -1,0 +1,128 @@
+* {
+    font-family: 'Segoe UI';
+}
+
+body{
+    background-color: rgb(255, 255, 255, 0.100);
+    background: url('../../Assets/img/technology.jpg') no-repeat center fixed;
+}
+
+#login {
+    width: 100%;
+}
+/*  Oculta a img 2*/
+.image2 {
+    display: none;
+}
+
+.caixa {   
+    background-color: rgba(255, 255, 255, 0.790);         
+    height: 50%;
+    margin: 8% 32.5%;
+    border-style: hidden;
+    border-radius: 3%;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+.caixa p {
+    margin: -8% 8% 10%;
+    width: 100%; 
+    color: #08175a;
+}
+
+.caixa img {
+    width: 75%;
+    margin: 12%;
+}
+.caixa input {
+    text-align: center;
+    padding: 3.5% 1%;
+    width: 100%;
+    height: 1.7em;
+    font-size: 1.1em;
+    border-radius: 5px;
+    filter: opacity(85%);
+    border:none;
+    border-bottom: 5px solid rgba(109, 95, 235, 0.8);
+    margin-bottom: 10%;
+}
+
+.input-text::-webkit-input-placeholder { /* Chrome, Safari, Opera */
+    text-align: center;
+    font-style: italic;
+  }
+
+p {
+    text-align: right;
+    color:white;
+}
+
+
+@media screen and (max-width: 1450px) {
+.caixa {
+    height: 500px;
+    margin: 10% 30%;
+    width: 40%;
+    align-items: center;
+    justify-content: center;         
+    }
+.caixa input {
+    height: 13%;    
+    width: 80%;    
+    margin-left: 10%;
+}
+.btn-blocktime {
+    width: 80% !important;
+    margin-left: 10%;
+}
+}
+
+@media screen and (max-width: 1060px) {
+.caixa {
+    height: 470px;
+    margin: 10% 23%;
+    width: 50%;
+}
+.caixa input {
+    height: 13%;
+    border-bottom: 4px solid #6D5FEB;
+    width: 80%;
+}
+
+.btn-blocktime{
+    width: 20%;
+}
+}
+
+p{
+    font-size: 0.9em;
+}
+
+@media screen and (max-width: 770px) {
+* {
+    font-size: 0.98em;
+}
+
+.caixa {
+    height: 450px;
+    margin: 20% 20%;
+    width: 65%;
+}
+p {    
+    font-size: 0.8em;
+}
+}
+
+.btn-blocktime{
+    background-color: rgb(109, 95, 235) !important;
+    border-color: rgb(109, 95, 235) !important;
+    align-items: flex-end;
+}
+
+.btn-blocktime:hover{
+    background-color: rgb(116, 136, 235) !important;
+    border-color: rgb(116, 136, 235) !important;
+    align-items: flex-end;
+}
+

@@ -1,0 +1,9 @@
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Domains\bin\Release\netcoreapp2.1\Domains.deps.json
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Domains\bin\Release\netcoreapp2.1\Domains.dll
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Domains\bin\Release\netcoreapp2.1\Domains.pdb
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Domains\obj\Release\netcoreapp2.1\Domains.csprojAssemblyReference.cache
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Domains\obj\Release\netcoreapp2.1\Domains.csproj.CoreCompileInputs.cache
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Domains\obj\Release\netcoreapp2.1\Domains.AssemblyInfoInputs.cache
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Domains\obj\Release\netcoreapp2.1\Domains.AssemblyInfo.cs
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Domains\obj\Release\netcoreapp2.1\Domains.dll
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Domains\obj\Release\netcoreapp2.1\Domains.pdb

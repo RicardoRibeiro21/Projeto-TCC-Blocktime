@@ -1,0 +1,105 @@
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Senai.BlockTime.dll
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Senai.BlockTime.pdb
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.pdb
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.dll
+C:\Users\44851410808\Desktop\Senai.BlockTime\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.pdb
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.dll
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Senai.BlockTime.dll
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.pdb
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Senai.BlockTime.pdb
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\Pichau\Desktop\projeto-Senai-final\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.pdb
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.dll
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Infra.Data.dll
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.pdb
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Infra.Data.pdb
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\44851410808\Desktop\batatinha\toin\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.pdb
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.pdb
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.dll
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Infra.Data.dll
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.pdb
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Infra.Data.pdb
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\44851410808\Desktop\16.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.dll
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Infra.Data.dll
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.pdb
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Infra.Data.pdb
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\44851410808\Desktop\22.10\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.pdb
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.dll
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Infra.Data.dll
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.pdb
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Infra.Data.pdb
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\44851410808\Desktop\BOLITITA\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.pdb
+D:\Ricardo\Projetos - Senai\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\Ricardo\Projetos - Senai\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\Ricardo\Projetos - Senai\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\Ricardo\Projetos - Senai\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.dll
+D:\Ricardo\Projetos - Senai\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.pdb
+D:\Ricardo\Projetos - Senai\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+D:\Ricardo\Projetos - Senai\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.dll
+D:\Ricardo\Projetos - Senai\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Services.pdb
+D:\Ricardo\Projetos - Senai\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.dll
+D:\Ricardo\Projetos - Senai\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Infra.Data.dll
+D:\Ricardo\Projetos - Senai\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Domains.pdb
+D:\Ricardo\Projetos - Senai\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\bin\Debug\netcoreapp2.1\Infra.Data.pdb
+D:\Ricardo\Projetos - Senai\BlockTime_Dev_Solution_Zabbix\Senai.BlockTime\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
