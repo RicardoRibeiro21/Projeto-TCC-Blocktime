@@ -6,7 +6,7 @@
     "bootstrap": "^4.3.1",
     "chart.js": "^2.9.3",
     "chartjs": "^0.3.24",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "loading": "^1.13.3",
     "mdbreact": "^4.23.0",
     "react": "^16.11.0",
